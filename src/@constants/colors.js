@@ -1,0 +1,9 @@
+export const InfoBlue = '#3D56F0';
+export const MainBlue = '#5669FF';
+export const Gray = '#747688';
+export const LightGray = '#6C6C6C';
+export const DarkGray = '#626262';
+export const White = '#FFF';
+export const Black = '#000';
+export const ErrorRed = '#EB5757';
+export const LightBlue = 'rgba(86, 105, 255, 0.15);';

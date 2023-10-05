@@ -1,0 +1,7 @@
+export const SET_USER = 'SET_USER';
+export const SET_SOCKET = 'SET_SOCKET';
+export const SET_RECENTTIME = 'SET_RECENTTIME';
+export const SET_BUSINESSES = 'SET_BUSINESSES';
+export const SET_TASKS = 'SET_TASKS';
+export const SET_TWILIO_TOKEN = 'SET_TWILIO_TOKEN';
+export const SET_ADVERTISEMENT = 'SET_ADVERTISEMENT';

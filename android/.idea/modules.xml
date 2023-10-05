@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/agenda.iml" filepath="$PROJECT_DIR$/.idea/modules/agenda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/agenda.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/agenda.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1653960128/agenda.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1653960128/agenda.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/406168363/agenda.react-native-audio.iml" filepath="$PROJECT_DIR$/.idea/modules/406168363/agenda.react-native-audio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1774952911/agenda.react-native-background-timer.iml" filepath="$PROJECT_DIR$/.idea/modules/-1774952911/agenda.react-native-background-timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/513285422/agenda.react-native-callkeep.iml" filepath="$PROJECT_DIR$/.idea/modules/513285422/agenda.react-native-callkeep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2133297458/agenda.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/-2133297458/agenda.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1207404510/agenda.react-native-date-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1207404510/agenda.react-native-date-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1867156058/agenda.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/1867156058/agenda.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-4993899/agenda.react-native-document-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-4993899/agenda.react-native-document-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/333705347/agenda.react-native-geolocation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/333705347/agenda.react-native-geolocation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1090725851/agenda.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1090725851/agenda.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-773269237/agenda.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-773269237/agenda.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-178458792/agenda.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-178458792/agenda.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/837027171/agenda.react-native-onesignal.iml" filepath="$PROJECT_DIR$/.idea/modules/837027171/agenda.react-native-onesignal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2002749946/agenda.react-native-pager-view.iml" filepath="$PROJECT_DIR$/.idea/modules/2002749946/agenda.react-native-pager-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1785153183/agenda.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1785153183/agenda.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/866891140/agenda.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/866891140/agenda.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1057002852/agenda.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1057002852/agenda.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-118454428/agenda.react-native-sound.iml" filepath="$PROJECT_DIR$/.idea/modules/-118454428/agenda.react-native-sound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1593749255/agenda.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1593749255/agenda.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1689958827/agenda.react-native-twilio-video-webrtc.iml" filepath="$PROJECT_DIR$/.idea/modules/-1689958827/agenda.react-native-twilio-video-webrtc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/851998171/agenda.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/851998171/agenda.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2071701200/agenda.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/2071701200/agenda.react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1798060274/agenda.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-1798060274/agenda.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twilio:video-android:6.2.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8591cef2127a4a6a474b8069d94c9dfe/transformed/jetified-video-android-6.2.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a90b9d36bec0a2707236bd46f70f4534/transformed/jetified-video-android-6.2.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8591cef2127a4a6a474b8069d94c9dfe/transformed/jetified-video-android-6.2.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8591cef2127a4a6a474b8069d94c9dfe/transformed/jetified-video-android-6.2.1/jars/libs/libwebrtc.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8591cef2127a4a6a474b8069d94c9dfe/transformed/jetified-video-android-6.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8591cef2127a4a6a474b8069d94c9dfe/transformed/jetified-video-android-6.2.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a90b9d36bec0a2707236bd46f70f4534/transformed/jetified-video-android-6.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a90b9d36bec0a2707236bd46f70f4534/transformed/jetified-video-android-6.2.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a90b9d36bec0a2707236bd46f70f4534/transformed/jetified-video-android-6.2.1/jars/libs/libwebrtc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a90b9d36bec0a2707236bd46f70f4534/transformed/jetified-video-android-6.2.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twilio/video-android/6.2.1/bc7a4f4aa62165256cf83be9c4b5607078d61269/video-android-6.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twilio/video-android/6.2.1/4b4502d39fac98f20a32d7244205b10d23ef7465/video-android-6.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
